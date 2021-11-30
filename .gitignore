@@ -16,6 +16,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+[Oo]utput/
 
 # Visual Studio 2015/2017/2019 cache/options directory
 .vs/
